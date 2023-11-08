@@ -13,7 +13,7 @@ namespace AuthSystem.Util.Constants
         public const string NOT_NULL = " cannot be null";
         public const string ALREADY_EXISTS = " already exists";
         public const string BAD_CREDENTIALS = "Bad credentials";
-        public const string WELCOME = "Ciao cacao, ";
+        public const string WELCOME = "Bine ai venit! , ";
 
         public static string GetExceptionMessage(string entity, string field, string message)
         {

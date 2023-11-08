@@ -1,5 +1,4 @@
-﻿-- INIT
-
+﻿
 USE MASTER;
 
 GO
@@ -16,7 +15,7 @@ USE AuthSystem;
 
 GO
 
--- TABLES
+
 
 CREATE TABLE "Role" (
 	Id INT IDENTITY(1, 1) PRIMARY KEY,
@@ -38,7 +37,7 @@ CREATE TABLE Account (
 
 GO
 
- -- INSERTS
+
 
 INSERT INTO "Role" VALUES
 	('User'),

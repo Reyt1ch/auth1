@@ -112,7 +112,7 @@ namespace AuthSystem.View
 
         private void PrivacyPolicyLabel_Click(object sender, EventArgs e)
         {
-            Process.Start("https://s.yimg.com/ny/api/res/1.2/3G214Kmm_v_0WS9in0RjFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNg--/https://media.zenfs.com/en_us/News/digitaltrends.com/you-mad-bro-625x416.png");
+            Process.Start("https://www.youtube.com/watch?v=dQw4w9WgXcQ");
         }
 
         private void PrivacyPolicyLabel_MouseHover(object sender, EventArgs e)
